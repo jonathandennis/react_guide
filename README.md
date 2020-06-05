@@ -1,1 +1,1 @@
-# react_guide
+# React - The Complete Guide (incl Hooks, React Router, Redux)
